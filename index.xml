@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HUGO.386</title>
+    <title>King&#39;s Code</title>
     <link>https://duofilm18.github.io/</link>
-    <description>Recent content on HUGO.386</description>
+    <description>Recent content on King&#39;s Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_tw</language>
     <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://duofilm18.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>我的第二篇文章</title>
+      <link>https://duofilm18.github.io/post/my-second-post/</link>
+      <pubDate>Thu, 14 May 2020 08:18:46 +0800</pubDate>
+      
+      <guid>https://duofilm18.github.io/post/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我的第一篇文章</title>
+      <link>https://duofilm18.github.io/post/my-first-post/</link>
+      <pubDate>Thu, 14 May 2020 07:40:47 +0800</pubDate>
+      
+      <guid>https://duofilm18.github.io/post/my-first-post/</guid>
+      <description>我的第一篇文章
+&amp;lt;%=%&amp;gt; </description>
+    </item>
     
     <item>
       <title></title>

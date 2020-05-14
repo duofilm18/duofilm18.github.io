@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://duofilm18.github.io/post/</loc>
+    <lastmod>2020-05-14T08:18:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://duofilm18.github.io/post/my-second-post/</loc>
+    <lastmod>2020-05-14T08:18:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://duofilm18.github.io/categories/</loc>
+    <lastmod>2020-05-14T07:40:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://duofilm18.github.io/tags/</loc>
+    <lastmod>2020-05-14T07:40:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://duofilm18.github.io/post/my-first-post/</loc>
+    <lastmod>2020-05-14T07:40:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://duofilm18.github.io/tags/%E7%88%BD/</loc>
+    <lastmod>2020-05-14T07:40:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://duofilm18.github.io/categories/%E7%88%BD/</loc>
+    <lastmod>2020-05-14T07:40:47+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://duofilm18.github.io/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -10,11 +45,6 @@
   <url>
     <loc>https://duofilm18.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://duofilm18.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,17 +68,7 @@
   </url>
   
   <url>
-    <loc>https://duofilm18.github.io/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://duofilm18.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://duofilm18.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   

@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on HUGO.386</title>
+    <title>Tags on King&#39;s Code</title>
     <link>https://duofilm18.github.io/tags/</link>
-    <description>Recent content in Tags on HUGO.386</description>
+    <description>Recent content in Tags on King&#39;s Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_tw</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 07:40:47 +0800</lastBuildDate>
     
 	<atom:link href="https://duofilm18.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>爽</title>
+      <link>https://duofilm18.github.io/tags/%E7%88%BD/</link>
+      <pubDate>Thu, 14 May 2020 07:40:47 +0800</pubDate>
+      
+      <guid>https://duofilm18.github.io/tags/%E7%88%BD/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>css</title>
